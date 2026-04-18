@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dushyanth Reddy</h1>
+<h3 align="center">Problem Solver | Java | Python | SQL | DSA | NumPy | Pandas</h3>
 
-<!--
-**dushyanthreddyvk/dushyanthreddyvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Passion for Problem Solving
+Computer Science student focused on writing efficient and logical solutions.  
+Strong understanding of Data Structures & Algorithms with practical knowledge of Java, Python, and SQL.  
+Interested in working with data using NumPy and Pandas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Current Focus
+- Strengthening Data Structures & Algorithms
+- Improving coding and logical thinking skills
+- Working with databases using SQL
+- Learning data analysis using NumPy and Pandas
+- Building projects to improve problem-solving ability
+
+---
+
+### Technical Skills
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,linux" />
+</p>
+
+**Libraries:** NumPy, Pandas
+
+---
+
+### Connect
+Email: your-email@gmail.com  
+LinkedIn: your-linkedin-link  
+GitHub: https://github.com/dushyanthreddyvk
+
+---
+
+⭐ Consistent learning leads to strong skills
