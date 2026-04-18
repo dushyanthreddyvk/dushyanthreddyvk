@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dushyanth Reddy</h1>
+<h1 align="center">Hi 🫪, I'm VK Dushyanth Reddy</h1>
 <h3 align="center">Problem Solver | Java | Python | SQL | DSA | NumPy | Pandas</h3>
 
 ---
@@ -29,9 +29,9 @@ Interested in working with data using NumPy and Pandas.
 ---
 
 ### Connect
-Email: your-email@gmail.com  
-LinkedIn: your-linkedin-link  
-GitHub: https://github.com/dushyanthreddyvk
+Email: vkdushyanthsnvd1@gmail.com  
+LinkedIn: [your-linkedin-link ](https://www.linkedin.com/in/dushyanth-reddy-vk-541658287/) 
+ GitHub: https://github.com/dushyanthreddyvk
 
 ---
 
